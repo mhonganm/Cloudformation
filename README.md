@@ -1,3 +1,2 @@
 # Cloudformation
-Cloudformation
-test for AWS
+Cloudformation uses these files testing with AWS
